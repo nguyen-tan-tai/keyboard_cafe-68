@@ -1,0 +1,15 @@
+.idea
+*.iws
+*.iml
+*.ipr
+.idea
+.vscode
+.classpath
+.project
+.settings
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+.pydevproject
